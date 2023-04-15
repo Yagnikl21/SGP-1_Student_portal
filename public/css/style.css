@@ -1,0 +1,58 @@
+body{
+    font-family: Georgia, serif;
+}
+
+h1{
+    font-size: 300%;
+    color: rgb(178, 219, 255);
+}
+
+p{
+    font-size: 120%;
+    color: aliceblue;
+}
+
+.navbar{
+    width: 95%;
+    height: auto;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    width: 120px;
+    cursor: pointer;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+/* 
+
+.image{
+    margin: 5em;
+    margin-left: 8em;
+} */
+.homepage{
+    
+}
+.content{
+    padding-top: 4rem;
+    /* padding-left: 6rem; */
+}
+
+.inner_content{
+    padding : 2rem 23% 0; 
+}
+
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(pexels-photo-1229861.png);
+    background-size: cover;
+    background-position: center;
+}

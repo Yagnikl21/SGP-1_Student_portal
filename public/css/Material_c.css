@@ -1,0 +1,37 @@
+h2{
+    font-size : 300%;
+    text-align: center;
+    font-family: 'Rocote',sans-serif;
+    color: rgb(15, 53, 35);
+    margin: 40px 0;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+body{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(145, 186, 164));
+
+}
+
+.container{
+    /* margin: 100px 0 0; */
+    align-content: center;
+}
+.row{
+    align-content: center;
+}
+.block{
+    padding: 30px 5%;
+    margin: 80px auto 0;
+    height: 240px;
+    text-align: center;
+    background-image: linear-gradient(to right,  rgb(216, 255, 244),rgba(229, 255, 0, 0));
+    border-radius: 30px;
+    width: 260px;   
+    box-shadow: 5px 2px 30px  rgb(126, 125, 121);
+    /* border-radius: 100%;  */
+    /* margin-top: 20px; */
+}

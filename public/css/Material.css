@@ -1,0 +1,33 @@
+.heading{
+    margin-bottom: 0.5rem;
+}
+
+.number{
+    text-align: right;
+}
+h1{
+    text-align: center;
+    padding-top: 2rem ;
+}
+
+.ref{
+    color: rgb(220, 202, 202);
+    background-color: transparent;
+    text-decoration: none;
+}
+.banner{
+    width: 100%;
+    height: 130vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(matrialbakeround2.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.container{
+    padding:1rem 3% 0;
+}
+
+.field{
+    text-align: center;
+}
